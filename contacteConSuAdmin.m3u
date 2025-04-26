@@ -1,41 +1,41 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz"
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="ServiBox Group INFORMA:" tvg-id="CONTACTE CON SU ADMINISTRADOR", ServiBox Group
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="ServiBox Group le informa" tvg-id="CONTACTE CON SU ADMINISTRADOR", ServiBox Group
 https://drive.google.com/file/d/15OftteUvNY2UeYRERc6RtQwSVdgy13Ia/view?usp=sharing
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="ServiBox Group INFORMA:" tvg-id="CONTACTE CON SU ADMINISTRADOR", CONTACTE CON SU ADMINISTRADOR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="ServiBox Group le informa" tvg-id="CONTACTE CON SU ADMINISTRADOR", CONTACTE CON SU ADMINISTRADOR
 https://drive.google.com/file/d/15OftteUvNY2UeYRERc6RtQwSVdgy13Ia/view?usp=sharing
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="ServiBox Group INFORMA:" tvg-id="CONTACTE CON SU ADMINISTRADOR", SU LICENCIA A CUMPLIDO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="ServiBox Group le informa" tvg-id="CONTACTE CON SU ADMINISTRADOR", SU LICENCIA A CUMPLIDO
 https://drive.google.com/file/d/15OftteUvNY2UeYRERc6RtQwSVdgy13Ia/view?usp=sharing
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="ServiBox Group INFORMA:" tvg-id="CONTACTE CON SU ADMINISTRADOR", RENUEVE SU LICENCIA
-https://drive.google.com/file/d/15OftteUvNY2UeYRERc6RtQwSVdgy13Ia/view?usp=sharing
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="FIN DE LICENCIA" tvg-id="CONTACTE CON SU ADMINISTRADOR", ServiBox Group
-https://drive.google.com/file/d/15OftteUvNY2UeYRERc6RtQwSVdgy13Ia/view?usp=sharing
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="FIN DE LICENCIA" tvg-id="CONTACTE CON SU ADMINISTRADOR", CONTACTE CON SU ADMINISTRADOR
-https://drive.google.com/file/d/15OftteUvNY2UeYRERc6RtQwSVdgy13Ia/view?usp=sharing
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="FIN DE LICENCIA" tvg-id="CONTACTE CON SU ADMINISTRADOR", SU LICENCIA A CUMPLIDO
-https://drive.google.com/file/d/15OftteUvNY2UeYRERc6RtQwSVdgy13Ia/view?usp=sharing
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="FIN DE LICENCIA" tvg-id="CONTACTE CON SU ADMINISTRADOR", RENUEVE SU LICENCIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="ServiBox Group le informa" tvg-id="CONTACTE CON SU ADMINISTRADOR", RENUEVE SU LICENCIA
 https://drive.google.com/file/d/15OftteUvNY2UeYRERc6RtQwSVdgy13Ia/view?usp=sharing
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="FIN DE LICENCIA " tvg-id="CONTACTE CON SU ADMINISTRADOR", ServiBox Group
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="⚠️FIN DE LICENCIA⚠️" tvg-id="CONTACTE CON SU ADMINISTRADOR", ServiBox Group
 https://drive.google.com/file/d/15OftteUvNY2UeYRERc6RtQwSVdgy13Ia/view?usp=sharing
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="FIN DE LICENCIA " tvg-id="CONTACTE CON SU ADMINISTRADOR", CONTACTE CON SU ADMINISTRADOR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="⚠️FIN DE LICENCIA⚠️" tvg-id="CONTACTE CON SU ADMINISTRADOR", CONTACTE CON SU ADMINISTRADOR
 https://drive.google.com/file/d/15OftteUvNY2UeYRERc6RtQwSVdgy13Ia/view?usp=sharing
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="FIN DE LICENCIA " tvg-id="CONTACTE CON SU ADMINISTRADOR", SU LICENCIA A CUMPLIDO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="⚠️FIN DE LICENCIA⚠️" tvg-id="CONTACTE CON SU ADMINISTRADOR", SU LICENCIA A CUMPLIDO
 https://drive.google.com/file/d/15OftteUvNY2UeYRERc6RtQwSVdgy13Ia/view?usp=sharing
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="FIN DE LICENCIA " tvg-id="CONTACTE CON SU ADMINISTRADOR", RENUEVE SU LICENCIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="⚠️FIN DE LICENCIA⚠️" tvg-id="CONTACTE CON SU ADMINISTRADOR", RENUEVE SU LICENCIA
 https://drive.google.com/file/d/15OftteUvNY2UeYRERc6RtQwSVdgy13Ia/view?usp=sharing
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="FIN DE LICENCIA  " tvg-id="CONTACTE CON SU ADMINISTRADOR", ServiBox Group
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="⚠️FIN DE LICENCIA⚠️ " tvg-id="CONTACTE CON SU ADMINISTRADOR", ServiBox Group
 https://drive.google.com/file/d/15OftteUvNY2UeYRERc6RtQwSVdgy13Ia/view?usp=sharing
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="FIN DE LICENCIA  " tvg-id="CONTACTE CON SU ADMINISTRADOR", CONTACTE CON SU ADMINISTRADOR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="⚠️FIN DE LICENCIA⚠️ " tvg-id="CONTACTE CON SU ADMINISTRADOR", CONTACTE CON SU ADMINISTRADOR
 https://drive.google.com/file/d/15OftteUvNY2UeYRERc6RtQwSVdgy13Ia/view?usp=sharing
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="FIN DE LICENCIA  " tvg-id="CONTACTE CON SU ADMINISTRADOR", SU LICENCIA A CUMPLIDO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="⚠️FIN DE LICENCIA⚠️ " tvg-id="CONTACTE CON SU ADMINISTRADOR", SU LICENCIA A CUMPLIDO
 https://drive.google.com/file/d/15OftteUvNY2UeYRERc6RtQwSVdgy13Ia/view?usp=sharing
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="FIN DE LICENCIA  " tvg-id="CONTACTE CON SU ADMINISTRADOR", RENUEVE SU LICENCIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="⚠️FIN DE LICENCIA⚠️ " tvg-id="CONTACTE CON SU ADMINISTRADOR", RENUEVE SU LICENCIA
+https://drive.google.com/file/d/15OftteUvNY2UeYRERc6RtQwSVdgy13Ia/view?usp=sharing
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="⚠️FIN DE LICENCIA⚠️  " tvg-id="CONTACTE CON SU ADMINISTRADOR", ServiBox Group
+https://drive.google.com/file/d/15OftteUvNY2UeYRERc6RtQwSVdgy13Ia/view?usp=sharing
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="⚠️FIN DE LICENCIA⚠️  " tvg-id="CONTACTE CON SU ADMINISTRADOR", CONTACTE CON SU ADMINISTRADOR
+https://drive.google.com/file/d/15OftteUvNY2UeYRERc6RtQwSVdgy13Ia/view?usp=sharing
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="⚠️FIN DE LICENCIA⚠️  " tvg-id="CONTACTE CON SU ADMINISTRADOR", SU LICENCIA A CUMPLIDO
+https://drive.google.com/file/d/15OftteUvNY2UeYRERc6RtQwSVdgy13Ia/view?usp=sharing
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxbxQPQr/Licencia.png" group-title="⚠️FIN DE LICENCIA⚠️  " tvg-id="CONTACTE CON SU ADMINISTRADOR", RENUEVE SU LICENCIA
 https://drive.google.com/file/d/15OftteUvNY2UeYRERc6RtQwSVdgy13Ia/view?usp=sharing
 
 
